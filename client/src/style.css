@@ -1,0 +1,20 @@
+.main {
+	padding: 20px;
+}
+
+a { color: inherit; }
+h1 { margin: 0; }
+
+.menu {
+	color: #fabd2f;
+	font-size: 20px;
+}
+
+.header {
+	border-bottom: 2px solid #504945;
+	background-color: #242424;
+	padding: 5px;
+}
+
+
+
